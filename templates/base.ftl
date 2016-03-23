@@ -601,10 +601,10 @@
 <script type="text/javascript">
 
   $(document).ready(function () {
-    $('#myCarousel').carousel({
-                                interval: 7000
-                              });
-
+    $('#myCarousel')
+            .carousel({
+                        interval: 7000
+                      });
   });
 
 
